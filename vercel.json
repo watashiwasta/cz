@@ -1,10 +1,16 @@
 {
     "redirects": [
       {
-        "source": "/2025/02/28",
+        "source": "/2025/02/28/39047.html",
+        "destination": "/binance-founder-prison-drawing-number-4",
+        "permanent": true
+      },
+      {
+        "source": "/2025/02/28/39047.html/",
         "destination": "/binance-founder-prison-drawing-number-4",
         "permanent": true
       }
-    ]
+    ],
+    "trailingSlash": false
   }
   
