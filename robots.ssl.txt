@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /hm/lcz/wp-admin/
+Allow: /hm/lcz/wp-admin/admin-ajax.php
+
+Sitemap: https://sf.epochtimes.com/wp-sitemap.xml

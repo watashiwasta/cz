@@ -1,0 +1,274 @@
+.sidebar {
+	display: inline-block;
+	float: left;
+	vertical-align: top;
+	width: 100%;
+	padding-left: 15px;
+	border-left: 1px dotted #b4b2b2;
+}
+
+
+
+
+.sidebar {
+	display: inline-block;
+	float: right;
+	width: 30%;
+	vertical-align: top;
+}
+
+.sidebar>div {
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+.sidebar .one_post {
+	display: inline-block;
+	width: 100%;
+	padding-bottom: 5px;
+}
+
+.sidebar .prog_post .img {
+	width: 100%;
+	
+}
+.sidebar .prog_post .text {
+	width: 100%;
+	
+}
+
+.sidebar .label {
+	position: absolute;
+	display: inline-block;
+	border: 1px solid #2c62e4;
+	left: 15px;
+	bottom: 15px;
+	height: 21px;
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: 300;
+	background-color: rgba(0, 0, 0, .5);
+	color: #fff;
+}
+
+.sidebar .label .label_tag {
+	display: inline-block;
+	background-color: #2c62e4;
+	padding: 0 5px;
+	vertical-align: top;
+}
+
+.sidebar .prog_post .length {
+	position: relative;
+	left: auto;
+	bottom: auto;
+}
+
+.sidebar .read_more {
+	text-align: right;
+}
+
+.sidebar .read_more a {
+	color: #666;
+	text-decoration: underline;
+	font-size: 14px;
+}
+
+
+
+
+
+.sidebar img {
+	width: 100%;
+}
+
+
+
+.sidebar .one_post .img {
+	line-height: 0;
+}
+
+.sidebar .text {
+	font-size: 15px;
+	line-height: 21px;
+}
+
+
+
+
+
+
+.right-panel {
+
+width: 100%;
+
+float: right;
+
+overflow: hidden;
+
+}
+
+
+
+.nTab1{width:100%;}
+.nTab1 .TabTitle{height:30px;width:100%;background: rgb(18, 115, 222);
+	background: -moz-linear-gradient(180deg, rgba(18, 115, 222, 1) 0%, rgba(10, 69, 189, 1) 100%);
+	background: -webkit-linear-gradient(180deg, rgba(18, 115, 222, 1) 0%, rgba(10, 69, 189, 1) 100%);
+	background: linear-gradient(180deg, rgba(18, 115, 222, 1) 0%, rgba(10, 69, 189, 1) 100%);
+	color:#ffffff;}
+	
+.nTab1 .TabTitle ul{height:30px;}.nTab1 .TabTitle li{display: inline-block;float:left;width:32%;cursor:pointer;font-size:16px;text-align:center;font-weight:bold;}
+
+
+
+.nTab1 .TabTitle .active{background: rgb(164, 202, 245);
+	
+	background: -webkit-linear-gradient(180deg, rgba(18, 115, 222, 1) 0%, rgba(10, 69, 189, 1) 100%);
+	
+	height:30px;color:#fd0100;}
+
+.line{
+margin-bottom: 12px;
+	border-bottom: 1px dotted #b4b2b2;
+	padding-bottom: 10px;
+}
+
+.ns-list  {
+
+margin-top: 10px;
+
+}
+
+.ns-list  li {
+
+line-height: 35px;
+
+	height: 35px;
+
+	width:100%;
+
+	float: left;
+
+	
+
+  font-size: 16px;
+
+}
+
+
+
+.height1 {
+
+padding-left: 5px;
+
+overflow: hidden;
+
+word-break: break-word;
+
+width: 99%;
+
+}
+
+
+
+.top1 a{ color:#ef4919; font-weight:bold; }
+
+.top2 a{ color:#de6803; font-weight:bold; }
+
+.top3 a{ color:#dc9002; font-weight:bold;}
+
+.top a{ color:#333333; font-weight:bold;}
+
+
+
+
+
+
+
+
+
+.sidebar .shenyun_news .block_title {
+	padding: 8px 0;
+}
+
+.sidebar .shenyun_news .block_title .more {
+	color: #666;
+	float: right;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.sidebar .shenyun_news .block_title span a {
+	color: #1662d0;
+}
+
+.sidebar .shenyun_news .block_title .img {
+	line-heigth: 0;
+}
+
+
+.sidebar .shenyun_news .one_post {
+	display: inline-block;
+	width: 100%;
+}
+
+.sidebar .shenyun_news .one_post>div {
+	display: inline-block;
+	float: left;
+}
+
+.sidebar .shenyun_news .one_post .img {
+	width: 37.2%;
+	line-height: 0;
+}
+
+.sidebar .shenyun_news .one_post .text {
+	padding: 0 0 0 12px;
+	width: 62.8%;
+	height: 43px;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+.sidebar .ranking .one_post {
+	padding-bottom: 8px;
+}
+
+.sidebar .ranking .one_post:last-child {
+	padding-bottom: 0;
+}
+
+.sidebar .ranking .img {
+	position: relative;
+}
+
+.sidebar .ranking .img span {
+	position: absolute;
+	display: inline-block;
+	bottom: 0;
+	left: 0;
+	width: 40px;
+	height: 45px;
+	line-height: 45px;
+	background-color: #ff4745;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.sidebar .ranking .one_post .text {
+	padding: 5px 0;
+}
+
+.sidebar .pickup_prog .one_post {
+	box-shadow: 3px 3px 11px 3px #e7e7e7;
+	margin-bottom: 20px;
+	line-height: 0;
+}
+
+.sidebar .youtube_channels>div {
+	margin-bottom: 10px !important;
+}
